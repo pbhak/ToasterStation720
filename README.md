@@ -15,7 +15,7 @@ Want some technical features? Here you go:
 ## Why vote for us?
 Look at it.
 
-![Picture of ToasterStation 720](assets\toasterstation720.jpg "🔥")
+![Picture of ToasterStation 720](https://raw.githubusercontent.com/pbhak/ToasterStation720/refs/heads/main/assets/toasterstation720.jpg "🔥")
 
 *Need I say more?*
 
