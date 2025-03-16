@@ -14,10 +14,12 @@ Want some technical features? Here you go:
 
 ## Why vote for us?
 Look at it.
-[INSERT PICTURE OF ASSEMBLY HERE]
+
+![Picture of ToasterStation 720](assets\toasterstation720.jpg "🔥")
+
 *Need I say more?*
 
-### [Still need proof?](DEMO VIDEO YT LINK)
+### [Still need proof?](https://youtube.com/shorts/zqaACHboSkk)
 
 ## How to make at home:
 1. Acquire a Linux-running 85x56mm computer board.
