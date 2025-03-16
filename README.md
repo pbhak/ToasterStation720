@@ -1,6 +1,6 @@
 # Toaster Station 720 🕹️
 
-## Turn your local toaster into a game console 🎮... for an extremely low cost!
+## Turn your local toaster into a game console 🎮 for an extremely low cost!
 Game consoles are getting very expensive these days (source: Sony).
 But think about it - aren't game consoles just computers enclosed in really expensive cases? 
 
