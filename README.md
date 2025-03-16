@@ -19,7 +19,7 @@ Look at it.
 
 *Need I say more?*
 
-### [Still need proof?](https://youtube.com/shorts/zqaACHboSkk)
+### [Still need proof? Click here!](https://youtube.com/shorts/zqaACHboSkk)
 
 ## How to make at home:
 1. Acquire a Linux-running 85x56mm computer board.
