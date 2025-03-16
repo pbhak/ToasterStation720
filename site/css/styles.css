@@ -1,0 +1,259 @@
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Regular.woff')
+      format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Regular.woff2')
+      format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Italic.woff')
+      format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Italic.woff2')
+      format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Bold.woff')
+      format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Bold.woff2')
+      format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+    background: #F9E4CE;
+    font-family: "Phantom Sans", sans-serif;
+}
+
+
+html {
+    font-size: 50%;
+}
+
+.carousel {
+    scale: 50%;
+}
+
+h1 {
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+p,i 
+{
+    font-size: 2rem;
+    margin-left: 5rem;
+    margin-right: 60rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    padding-left: 5rem;
+}
+
+h1, p,i
+ h2 {
+    color: #0c1964;
+}
+
+h2 {
+    font-size: 4rem;
+    margin-left: 5rem;
+}
+
+.console {
+    width: 240px;
+    height: 135px;
+    float: right;
+    margin-right: 5rem;
+    border-radius: 2rem;
+}
+
+.mario64 {
+   margin-top: 12rem;
+   width: 320px;
+   height: 160px;
+   float: right;
+   margin-right: 5rem;
+   border-radius: 2rem;
+}
+
+/* :root {
+    --color-primary: #113764;
+    --color-secondary: #000000;
+    --color-body: #fad8b5;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Rubik Doodle Shadow", Arial, Helvetica, sans-serif;
+    color: var(--color-primary);
+    font-size: 1.5rem;
+    background: var(--color-body);
+}
+
+.nav_item > a {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+.title {
+    font-size: 8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-top: 1.6rem;
+    margin-bottom: 0;
+}
+
+.nav_list {
+    padding-left: 1.6rem;
+    width: auto;
+    display: flex;
+    font-size: 2rem;
+    margin-right: 1rem;
+
+}
+
+li {
+    list-style: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.nav_item {
+    padding-left: 3.2rem;
+    padding-bottom: 2rem;
+    padding-right: 5rem;
+    font-size: 2.5rem;
+}
+
+.nav_item:hover > a{
+    color: #a9a9a9;
+    transition: color 0.15s;
+}
+
+.project:hover > a{
+    color: #a9a9a9;
+    transition: color 0.15s;
+}
+
+.home_section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.home_image {
+    margin-right: 5.12vw;
+    margin-left: 5.12vw;
+    margin-top: 5.4rem;
+}
+
+.project {
+    font-size: 4rem;
+    padding-bottom: 3.2rem;
+}
+
+.project > a{
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+
+.projects_list {
+    display: grid;
+    justify-items: center;
+    padding-left: 0;
+}
+
+.project_title {
+    font-size: 5.625rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 25rem;
+    padding-bottom: 4rem;
+    margin-left: 0;
+}
+
+.about_me {
+    font-size: 5.625rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 25rem;
+    padding-bottom: 4rem;
+}
+
+.about_paragraph {
+    font-size: 4rem;
+    padding-bottom: 25rem;
+    display: flex;
+    justify-content: center;
+}
+
+.home_image:hover {
+    scale: 103%;
+    filter: brightness(0.8);
+    transition: 0.15s; 
+}
+
+
+
+
+@media screen and (min-width: 768px) {
+    body {
+        font-size: 2rem;
+    }
+
+    h1 {
+        margin-top: 1.6rem;
+        margin-bottom: 0;
+        margin-left: 2rem;
+    }
+
+    .nav_list {
+        padding-right: 4rem;
+        padding-left: 2rem;
+    }
+
+}
+ 
+@media screen and (max-width: 631px) {
+    .nav_list {
+        padding-left: 0;
+    }
+}
+
+@media screen and (min-width: 1131px) {
+    .nav_list {
+        padding-top: 3.2rem;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    html {
+        zoom: 64%;
+    }
+}
+
+ */
